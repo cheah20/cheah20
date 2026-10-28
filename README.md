@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Cheah Chee Foong
 
 Year 3 Computer Science (Artificial Intelligence) student at Universiti Teknikal Malaysia Melaka (UTeM).
-I like building apps that use AI to help people make better decisions.
+I enjoy exploring the latest tools and sharpening my skills, and I'm still working hard to grow as an AI engineer.
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="320" alt="A cat typing on a laptop">
@@ -29,7 +29,7 @@ I like building apps that use AI to help people make better decisions.
 
 ### 🎨 About me
 
-- Working on NLP and growing my AI engineering skills
+- Working on NLP and LLM apps
 - Background in machine learning and fuzzy logic
 - Building web apps with Flutter and Python (FastAPI, Flask)
 - Front end with HTML, CSS and JavaScript, and some React
