@@ -1,4 +1,4 @@
-name: Contribution snake
+name: Profile cards
 
 on:
   schedule:
@@ -11,15 +11,25 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Draw the skills and activity cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: |
+          python3 scripts/skills.py dist/skills.svg
+          python3 scripts/activity.py dist/activity.svg
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
