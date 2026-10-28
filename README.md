@@ -9,8 +9,10 @@ I like building apps that use AI to help people make better decisions.
 
 ### 🎨 About me
 
-- Studying AI, machine learning and fuzzy logic
+- Working on NLP and growing my AI engineering skills
+- Background in machine learning and fuzzy logic
 - Building web apps with Flutter and Python (FastAPI, Flask)
+- Front end with HTML, CSS and JavaScript, and some React
 - Learning robotics with ROS on the side
 
 ### 🛠️ Projects
