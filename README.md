@@ -7,14 +7,9 @@ I enjoy exploring the latest tools and sharpening my skills, and I'm still worki
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="320" alt="A cat typing on a laptop">
 </p>
 
-### 📈 GitHub stats
+### 📈 GitHub activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cheah20&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheah20&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages">
-</p>
-
-<img src="https://streak-stats.demolab.com?user=cheah20&theme=tokyonight&hide_border=true" alt="Contribution streak">
+<img src="https://raw.githubusercontent.com/cheah20/cheah20/output/activity.svg" width="860" alt="GitHub activity">
 
 ### 🐍 Contributions
 
@@ -25,7 +20,7 @@ I enjoy exploring the latest tools and sharpening my skills, and I'm still worki
 
 ### 👀 Visitors
 
-<img src="https://count.getloli.com/@cheah20?theme=moebooru" alt="Visitor count">
+<img src="https://count.getloli.com/@cheah20?theme=capoo-2" alt="Visitor count">
 
 ### 🎨 About me
 
@@ -34,6 +29,10 @@ I enjoy exploring the latest tools and sharpening my skills, and I'm still worki
 - Building web apps with Flutter and Python (FastAPI, Flask)
 - Front end with HTML, CSS and JavaScript, and some React
 - Learning robotics with ROS on the side
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,flask,supabase,postgres,flutter,dart,html,css,js,react,git,githubactions,linux,ubuntu,ros,anaconda&perline=10&theme=dark" alt="Tech stack">
+
+<img src="https://raw.githubusercontent.com/cheah20/cheah20/output/skills.svg" width="860" alt="Skills by group">
 
 ### 🛠️ Projects
 
