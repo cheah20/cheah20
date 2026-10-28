@@ -7,21 +7,6 @@ I like building apps that use AI to help people make better decisions.
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="320" alt="A cat typing on a laptop">
 </p>
 
-### 🎨 About me
-
-- Working on NLP and growing my AI engineering skills
-- Background in machine learning and fuzzy logic
-- Building web apps with Flutter and Python (FastAPI, Flask)
-- Front end with HTML, CSS and JavaScript, and some React
-- Learning robotics with ROS on the side
-
-### 🛠️ Projects
-
-| Project | What it does | Built with |
-|---|---|---|
-| [CareerBridge AI](https://github.com/cheah20/CareerBridgeAI) | Reads a resume, scores how well it fits a job and suggests what to learn next | Flutter, FastAPI, Supabase, scikit-learn |
-| [NeuralTrade](https://github.com/cheah20/NeuralTrade) | Trading assistant that combines fuzzy logic, ANFIS and an agent pipeline, with backtesting | Python, Flask, JavaScript |
-
 ### 📈 GitHub stats
 
 <p>
@@ -41,3 +26,18 @@ I like building apps that use AI to help people make better decisions.
 ### 👀 Visitors
 
 <img src="https://count.getloli.com/@cheah20?theme=moebooru" alt="Visitor count">
+
+### 🎨 About me
+
+- Working on NLP and growing my AI engineering skills
+- Background in machine learning and fuzzy logic
+- Building web apps with Flutter and Python (FastAPI, Flask)
+- Front end with HTML, CSS and JavaScript, and some React
+- Learning robotics with ROS on the side
+
+### 🛠️ Projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| [CareerBridge AI](https://github.com/cheah20/CareerBridgeAI) | Reads a resume, scores how well it fits a job and suggests what to learn next | Flutter, FastAPI, Supabase, scikit-learn |
+| [NeuralTrade](https://github.com/cheah20/NeuralTrade) | Trading assistant that combines fuzzy logic, ANFIS and an agent pipeline, with backtesting | Python, Flask, JavaScript |
