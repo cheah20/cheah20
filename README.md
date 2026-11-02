@@ -14,6 +14,7 @@ I enjoy exploring the latest tools and sharpening my skills, and I'm still worki
   <a href="https://github.com/cheah20/StudentManagementSystem"><img src="https://raw.githubusercontent.com/cheah20/cheah20/output/project-studentmanagementsystem.svg" width="49%" alt="Student Management System"></a>
 </p>
 <p align="center">
+  <a href="https://github.com/cheah20/FaceRecognitionDoorLock"><img src="https://raw.githubusercontent.com/cheah20/cheah20/output/project-facerecognitiondoorlock.svg" width="49%" alt="Face Recognition Door Lock"></a>
   <a href="https://github.com/cheah20/DigitalIncubation"><img src="https://raw.githubusercontent.com/cheah20/cheah20/output/project-digitalincubation.svg" width="49%" alt="AI Engineer 90 Days"></a>
 </p>
 

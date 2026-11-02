@@ -19,6 +19,8 @@ PROJECTS = [
      ["HTML", "CSS", "JavaScript", "MySQL"], "Diploma internship"),
     ("StudentManagementSystem", "Student Management", "Admin, teacher and student views for fees, receipts and grades.",
      ["HTML", "CSS", "JavaScript", "MySQL"], "Diploma internship"),
+    ("FaceRecognitionDoorLock", "Face Recognition Door Lock", "Raspberry Pi 4 door lock that opens for known faces, with a web dashboard.",
+     ["Python", "OpenCV", "Flask", "Raspberry Pi"], "Diploma Final Year Project"),
     ("DigitalIncubation", "AI Engineer 90 Days", "A 90 day self-study plan with a bilingual logbook.",
      ["Python", "GitHub Pages", "Logbook"], "Self-study"),
 ]
