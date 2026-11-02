@@ -15,11 +15,11 @@ PROJECTS = [
      ["Flutter", "FastAPI", "Supabase", "scikit-learn"], "Y3S1 · Team project"),
     ("NeuralTrade", "NeuralTrade", "Trading helper with fuzzy logic, ANFIS and an AI step that must pass a rule check.",
      ["Python", "Flask", "Fuzzy logic", "ANFIS"], "Y2S2 · Fuzzy Logic"),
-    ("Payroll-System", "Payroll System", "Payroll with EPF, SOCSO, EIS and PCB, payslips and bank files.",
+    ("PayrollSystem", "Payroll System", "Payroll with EPF, SOCSO, EIS and PCB, payslips and bank files.",
      ["HTML", "CSS", "JavaScript", "MySQL"], "Diploma internship"),
-    ("Student-Management-System", "Student Management", "Admin, teacher and student views for fees, receipts and grades.",
+    ("StudentManagementSystem", "Student Management", "Admin, teacher and student views for fees, receipts and grades.",
      ["HTML", "CSS", "JavaScript", "MySQL"], "Diploma internship"),
-    ("Digital-Incubation", "AI Engineer 90 Days", "A 90 day self-study plan with a bilingual logbook.",
+    ("DigitalIncubation", "AI Engineer 90 Days", "A 90 day self-study plan with a bilingual logbook.",
      ["Python", "GitHub Pages", "Logbook"], "Self-study"),
 ]
 
@@ -56,7 +56,7 @@ def hero():
     s.append(typed("Hi, I'm Cheah. An AI engineer in training", W / 2, 54, 24, TITLE, 0.3, 2.2))
     s.append(typed("A curious coder, always learning", W / 2, 92, 20, CYAN, 2.8, 1.6))
     s.append(f'<text x="{W / 2}" y="126" text-anchor="middle" fill="{SOFT}" font-size="14">Interested in NLP, LLM apps and tools that help people decide.</text>')
-    chips = [("UTeM · Year 3 CS (AI)", TITLE), ("Malaysia", CYAN), ("Open to freelance work", GREEN)]
+    chips = [("UTeM · Year 3 CS (AI)", TITLE), ("Malaysia", CYAN), ("Taking freelance jobs for experience", GREEN)]
     widths = [len(t) * 12 * 0.62 + 24 for t, _ in chips]
     x = (W - sum(widths) - 12 * (len(chips) - 1)) / 2
     for (t, col), w in zip(chips, widths):

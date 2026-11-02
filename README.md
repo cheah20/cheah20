@@ -10,11 +10,11 @@ I enjoy exploring the latest tools and sharpening my skills, and I'm still worki
   <a href="https://github.com/cheah20/NeuralTrade"><img src="https://raw.githubusercontent.com/cheah20/cheah20/output/project-neuraltrade.svg" width="49%" alt="NeuralTrade"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/cheah20/Payroll-System"><img src="https://raw.githubusercontent.com/cheah20/cheah20/output/project-payroll-system.svg" width="49%" alt="Payroll System"></a>
-  <a href="https://github.com/cheah20/Student-Management-System"><img src="https://raw.githubusercontent.com/cheah20/cheah20/output/project-student-management-system.svg" width="49%" alt="Student Management System"></a>
+  <a href="https://github.com/cheah20/PayrollSystem"><img src="https://raw.githubusercontent.com/cheah20/cheah20/output/project-payrollsystem.svg" width="49%" alt="Payroll System"></a>
+  <a href="https://github.com/cheah20/StudentManagementSystem"><img src="https://raw.githubusercontent.com/cheah20/cheah20/output/project-studentmanagementsystem.svg" width="49%" alt="Student Management System"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/cheah20/Digital-Incubation"><img src="https://raw.githubusercontent.com/cheah20/cheah20/output/project-digital-incubation.svg" width="49%" alt="AI Engineer 90 Days"></a>
+  <a href="https://github.com/cheah20/DigitalIncubation"><img src="https://raw.githubusercontent.com/cheah20/cheah20/output/project-digitalincubation.svg" width="49%" alt="AI Engineer 90 Days"></a>
 </p>
 
 <br>
