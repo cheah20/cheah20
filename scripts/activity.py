@@ -13,9 +13,8 @@ from pathlib import Path
 
 LOGIN = os.environ.get("PROFILE_USER", "cheah20")
 TOKEN = os.environ["GITHUB_TOKEN"]
-FONT = "Segoe UI, Ubuntu, Helvetica, Arial, sans-serif"
-BG, PANEL, EDGE, INK, SOFT, FAINT = "#1a1b27", "#1f2235", "#3b3f5c", "#c0caf5", "#a9b1d6", "#737aa2"
-GOLD, PINK, TEAL, BLUE = "#e0af68", "#f7768e", "#73daca", "#7aa2f7"
+# colours come from theme.py so every card matches
+from theme import BG, CYAN as TEAL, EDGE, FAINT, FONT, GLOW as PINK, GREEN as BLUE, INK, PANEL, SOFT, TITLE as GOLD
 
 
 def gql(query, **variables):

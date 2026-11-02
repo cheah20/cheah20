@@ -23,8 +23,7 @@ GROUPS = [
                ("ROS", "ros"), ("Conda", "anaconda")]),
 ]
 
-BG, CARD_EDGE, INK, LABEL, CHIP_BG = "#1a1b27", "#2a2e45", "#c0caf5", "#7aa2f7", "#22243a"
-FONT = "Segoe UI, Ubuntu, Helvetica, Arial, sans-serif"
+from theme import BG, EDGE as CARD_EDGE, FONT, INK, PANEL as CHIP_BG, TITLE as LABEL
 
 
 def icon(slug):

@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Draw the skills and activity cards
+      - name: Draw the profile cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USER: ${{ github.repository_owner }}
@@ -24,6 +24,7 @@ jobs:
           mkdir -p dist
           python3 scripts/skills.py dist/skills.svg
           python3 scripts/activity.py dist/activity.svg
+          python3 scripts/cards.py dist
 
       - uses: Platane/snk@v3
         with:
