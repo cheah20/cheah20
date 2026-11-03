@@ -2,6 +2,7 @@
 
 Year 3 Computer Science (Artificial Intelligence) student at Universiti Teknikal Malaysia Melaka (UTeM).
 I enjoy exploring the latest tools and sharpening my skills, and I'm still working hard to grow as an AI engineer.
+More about me on my [personal site](https://cheah20.github.io/CCF_PersonalSite/).
 
 ### 📌 Pinned Projects
 
@@ -25,6 +26,7 @@ I enjoy exploring the latest tools and sharpening my skills, and I'm still worki
 </p>
 <p align="center">
   <a href="mailto:cheahcheefoong08@gmail.com"><img src="https://img.shields.io/badge/Email-cheahcheefoong08%40gmail.com-f97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://cheah20.github.io/CCF_PersonalSite/"><img src="https://img.shields.io/badge/Personal%20Site-cheah20.github.io-0b6e5f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Personal Site"></a>
 </p>
 
 <p align="center">

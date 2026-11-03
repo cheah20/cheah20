@@ -11,13 +11,13 @@ from theme import (BG, CYAN, EDGE, FAINT, FONT, GLOW, GOLD, GREEN, INK, LOGIN, M
                    chip, frame, gql, svg_open)
 
 PROJECTS = [
-    ("CareerBridgeAI", "CareerBridge AI", "Reads a resume, scores how well it fits a job and suggests what to learn next.",
-     ["Flutter", "FastAPI", "Supabase", "scikit-learn"], "Y3S1 · Team project"),
+    ("CareerBridgeAI", "CareerBridge AI", "Reads a resume, scores how well it fits a job and gives short advice on what to do next.",
+     ["Flutter", "FastAPI", "Supabase", "scikit-learn"], "Y3S1 · Workshop II"),
     ("NeuralTrade", "NeuralTrade", "Trading helper with fuzzy logic, ANFIS and an AI step that must pass a rule check.",
      ["Python", "Flask", "Fuzzy logic", "ANFIS"], "Y2S2 · Fuzzy Logic"),
     ("PayrollSystem", "Payroll System", "Payroll with EPF, SOCSO, EIS and PCB, payslips and bank files.",
      ["HTML", "CSS", "JavaScript", "MySQL"], "Diploma internship"),
-    ("StudentManagementSystem", "Student Management", "Admin, teacher and student views for fees, receipts and grades.",
+    ("StudentManagementSystem", "Student Management System", "Admin, teacher and student views for fees, receipts and grades.",
      ["HTML", "CSS", "JavaScript", "MySQL"], "Diploma internship"),
     ("FaceRecognitionDoorLock", "Face Recognition Door Lock", "Raspberry Pi 4 door lock that opens for known faces, with a web dashboard.",
      ["Python", "OpenCV", "Flask", "Raspberry Pi"], "Diploma Final Year Project"),
@@ -69,12 +69,13 @@ def hero():
 
 
 def whoami():
-    W, H = 540, 300
+    W, H = 540, 320
     lines = [
         ("$ whoami", CYAN), ("cheah", INK), ("", INK), ("$ current_focus", CYAN),
         ("- Building CareerBridge AI, resume to job match", INK),
         ("- NLP and LLM apps with Python and FastAPI", INK),
         ("- Fuzzy logic and ML for decision support", INK),
+        ("- AI Engineer 90 Days, self-study", INK),
         ("- Learning robotics with ROS on the side", INK), ("", INK),
         ("$ stack", CYAN), ("Python / FastAPI / Flutter / Supabase / sklearn", GOLD),
     ]
