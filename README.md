@@ -16,7 +16,7 @@ More about me on my [personal site](https://cheah20.github.io/CCF_PersonalSite/)
 </p>
 <p align="center">
   <a href="https://github.com/cheah20/FaceRecognitionDoorLock"><img src="https://raw.githubusercontent.com/cheah20/cheah20/output/project-facerecognitiondoorlock.svg" width="49%" alt="Face Recognition Door Lock"></a>
-  <a href="https://github.com/cheah20/DigitalIncubation"><img src="https://raw.githubusercontent.com/cheah20/cheah20/output/project-digitalincubation.svg" width="49%" alt="AI Engineer 90 Days"></a>
+  <a href="https://github.com/cheah20/DigitalIncubation"><img src="https://raw.githubusercontent.com/cheah20/cheah20/output/project-digitalincubation.svg" width="49%" alt="AI Engineer Path"></a>
 </p>
 
 <br>

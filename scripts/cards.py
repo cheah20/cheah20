@@ -21,7 +21,7 @@ PROJECTS = [
      ["HTML", "CSS", "JavaScript", "MySQL"], "Diploma internship"),
     ("FaceRecognitionDoorLock", "Face Recognition Door Lock", "Raspberry Pi 4 door lock that opens for known faces, with a web dashboard.",
      ["Python", "OpenCV", "Flask", "Raspberry Pi"], "Diploma Final Year Project"),
-    ("DigitalIncubation", "AI Engineer 90 Days", "A 90 day self-study plan with a bilingual logbook.",
+    ("DigitalIncubation", "AI Engineer Path", "My self-study path: a 90-lesson plan plus bilingual lessons with code and quizzes.",
      ["Python", "GitHub Pages", "Logbook"], "Self-study"),
 ]
 
@@ -75,7 +75,7 @@ def whoami():
         ("- Building CareerBridge AI, resume to job match", INK),
         ("- NLP and LLM apps with Python and FastAPI", INK),
         ("- Fuzzy logic and ML for decision support", INK),
-        ("- AI Engineer 90 Days, self-study", INK),
+        ("- AI Engineer Path, self-study", INK),
         ("- Learning robotics with ROS on the side", INK), ("", INK),
         ("$ stack", CYAN), ("Python / FastAPI / Flutter / Supabase / sklearn", GOLD),
     ]
